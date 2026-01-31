@@ -2,7 +2,7 @@
 
 - Master student in SIT
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmessk&layout=compact&theme=dracula)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jmessk&layout=compact&theme=dracula)
 
 ## Template Repositories
 
