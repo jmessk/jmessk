@@ -6,4 +6,8 @@
 
 ## Template Repositories
 
-![GitHub Repo Card](https://githubcard.com/jmessk/template-ros2.svg)
+- **[template-uv](https://github.com/jmessk/template-uv)**
+- **[template-node](https://github.com/jmessk/template-node)**
+- **[template-ros2](https://github.com/jmessk/template-ros2)**
+- **[template-kea-docker](https://github.com/jmessk/template-kea-docker)**
+- **[template-dns-docker](https://github.com/jmessk/template-dns-docker)**
