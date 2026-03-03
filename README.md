@@ -18,7 +18,7 @@
 
 ### Network
 
-- **[ts-subnet-router-for-cloudflared](https://github.com/jmessk/ts-subnet-router-for-cloudflared)**
+- **[tailscale-subnet-router-for-cloudflared](https://github.com/jmessk/tailscale-subnet-router-for-cloudflared)**
 
 ### Config
 
