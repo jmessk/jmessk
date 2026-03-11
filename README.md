@@ -8,7 +8,7 @@
 
 <!--- **[]()**-->
 
-## General
+### General
 
 - **[dotfiles](https://github.com/jmessk/dotfiles)**
 
